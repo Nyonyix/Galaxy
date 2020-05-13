@@ -1,0 +1,121 @@
+{
+    "Star":
+    {
+        "Brown Dwarf":
+        {
+            "mass": [0.0477, 0.08],
+            "radius": [0.4, 0.8],
+            "temperature": [480, 960],
+            "weight": 0.6,
+            "name_string": "Brown Dwarf",
+            "desc_string": null
+        },
+        "Red Dwarf":
+        {
+            "mass": [0.08, 0.45],
+            "radius": [0.6, 0.7],
+            "temperature": [2400, 3700],
+            "weight": 5.5,
+            "name_string": "Red Dwarf",
+            "desc_string": null
+        },
+        "Orange Dwarf":
+        {
+            "mass": [0.45, 0.8],
+            "radius": [0.7, 0.96],
+            "temperature": [3700, 5200],
+            "weight": 1.0,
+            "name_string": "Orange Dwarf",
+            "desc_string": null
+        },
+        "Yellow Dwarf":
+        {
+            "mass": [0.8, 1.04],
+            "radius": [0.96, 1.15],
+            "temperature": [5200, 6000],
+            "weight": 0.4,
+            "name_string": "Yellow Dwarf",
+            "desc_string": null
+        },
+        "Yellow-White":
+        {
+            "mass": [1.04, 1.4],
+            "radius": [1.15, 1.4],
+            "temperature": [6000, 7500],
+            "weight": 0.3,
+            "name_string": "Yellow-White Main Sequence",
+            "desc_string": null
+        },
+        "White Main":
+        {
+            "mass": [1.4, 2.1],
+            "radius": [1.4, 1.8],
+            "temperature": [7500, 10000],
+            "weight": 0.1,
+            "name_string": "White Main Sequence",
+            "desc_string": null
+        },
+        "Blue-White":
+        {
+            "mass": [2.1, 16],
+            "radius": [1.8, 6.6],
+            "temperature": [10000, 30000],
+            "weight": 0.09,
+            "name_string": "Blue-White Main Sequence",
+            "desc_string": null
+        },
+        "Blue Main":
+        {
+            "mass": [16, 20],
+            "radius": [6.6, 10],
+            "temperature": [30000, 60000],
+            "weight": 0.07,
+            "name_string": "Blue Main Sequence",
+            "desc_string": null
+        },
+        "White Dwarf":
+        {
+            "mass": [0.45, 1.44],
+            "radius": [0.001, 0.01],
+            "temperature": [30000, 60000],
+            "weight": 0.6,
+            "name_string": "White Dwarf",
+            "desc_string": null
+        },
+        "Neutron Star":
+        {
+            "mass": [1.43, 4],
+            "radius": [0.0001, 0.001],
+            "temperature": [60000, 100000],
+            "weight": 0.02,
+            "name_string": "Neutron Star",
+            "desc_string": null
+        },
+        "Black Hole":
+        {
+            "mass": [4, 100],
+            "radius": [0.00000001, 0.00000001],
+            "temperature": [0, 0],
+            "weight": 0.005,
+            "name_string": "Black Hole",
+            "desc_string": null
+        },
+        "Black Hole-Disk":
+        {
+            "mass": [4, 100],
+            "radius": [0.00000001, 0.00000001],
+            "temperature": [3000, 10000],
+            "weight": 0.005,
+            "name_string": "Black Hole w/ Accretion Disk",
+            "desc_string": null
+        }
+},
+    "Planets":
+    {
+
+    },
+    "Other":
+    {
+
+    }
+}
